@@ -19,7 +19,7 @@ Run the program from the project directory:
 python hello_world.py
 ```
 
-The program prints `Hello World!`.
+The program prints `Hello, Andrew!`.
 
 **Hours spent:** 4 hours
 
